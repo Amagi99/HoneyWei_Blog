@@ -1,0 +1,21 @@
+{
+  "name": "Honey Wei",
+  "short_name": "Honey Wei",
+  "description": "Honey Wei的个人博客网站，分享生活与工作日常",
+  "icons": [
+    {
+      "src": "assets/img/apple-touch-icon-v2.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/img/favicon-v2.ico",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff"
+}
